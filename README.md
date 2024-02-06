@@ -1,1 +1,2 @@
-# Private Scripts Repo
+# CMD Scripts
+A multipurpose collection of Scripts
