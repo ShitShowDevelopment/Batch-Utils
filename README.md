@@ -1,2 +1,2 @@
-# CMD Scripts
-A multipurpose collection of Scripts
+# Batch Utils
+A multipurpose collection of batch scripts for Windows devices
