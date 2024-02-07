@@ -5,8 +5,8 @@ A multipurpose collection of batch scripts for Windows devices
 
 | Script | Info | Download |
 | --- | --- | --- |
-| rammap task scheduler | Script to automate the creation of RAMMap scheduled tasks | [task-scheduler.bat][task-scheduler] |
-| get chrome version | Get the installed Google Chrome version number | [version.bat][chrome-version] |
+| rammap task scheduler | Script to automate the creation of RAMMap scheduled tasks | [rammap-scheduler.bat][rammap-scheduler] |
+| chrome version | Get the installed Google Chrome version number | [chrome-version.bat][chrome-version] |
 
 
 [rammap-scheduler]: scripts/rammap-scheduler.bat
