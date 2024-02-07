@@ -9,6 +9,6 @@ A multipurpose collection of batch scripts for Windows devices
 | get chrome version | Get the installed Google Chrome version number | [version.bat][chrome-version] |
 
 
-[task-scheduler]: scripts/RAMMap/Task-Scheduler.bat
+[rammap-scheduler]: scripts/rammap-scheduler.bat
 
-[chrome-version]: scripts/Google-Chrome/version.bat
+[chrome-version]: scripts/chrome-version.bat
