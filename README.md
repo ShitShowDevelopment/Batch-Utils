@@ -15,7 +15,7 @@ A multipurpose collection of batch scripts for Windows devices
 
 Example:
 ```bat
-SET EXE_PATH=C://RAMMap/RAMMap.exe
+SET EXE_PATH="C://RAMMap/RAMMap.exe"
 ```
 
  - **Chrome Version**
