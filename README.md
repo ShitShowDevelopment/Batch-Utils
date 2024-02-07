@@ -11,7 +11,7 @@ A multipurpose collection of batch scripts for Windows devices
 
 ## Notes
 
- - **RAMMap Scheduler**: You need to download RAMMap from [here][rammap] and edit the EXE_PATH variable in this script in order to use this script.
+ - **RAMMap Scheduler**: You need to download RAMMap from [here][rammap] and edit the `SET EXE_PATH=` variable in this script in order to use this script.
 
 Example:
 ```bat
