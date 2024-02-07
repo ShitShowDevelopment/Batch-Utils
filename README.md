@@ -5,8 +5,8 @@ A multipurpose collection of batch scripts for Windows devices
 
 | Script | Download |
 | --- | --- |
-| **RAMMap**: task scheduler | **Download**: [task-scheduler.bat][task-scheduler] |
-| **Google Chrome**: version | **Download**: [version.bat][chrome-version] |
+| rammap task scheduler | [task-scheduler.bat][task-scheduler] |
+| get chrome version | [version.bat][chrome-version] |
 
 
 [task-scheduler]: scripts/RAMMap/Task-Scheduler.bat
